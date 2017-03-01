@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="topic_wwr_tp2_cz">
+  <title>Title of the topic</title>
+  <shortdesc>Short description for the topic.</shortdesc>
+  <body>
+    <p>Body text.</p>
+    <p>Body text.</p>
+    <p>Body text.</p>
+    <p>Body text.</p>
+    <ul id="ul_m5t_vp2_cz">
+      <li>List item 1</li>
+      <li>List item 2</li>
+    </ul>
+  </body>
+</topic>
